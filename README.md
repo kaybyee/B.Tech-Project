@@ -1,3 +1,5 @@
+Dynamics of Mode Use Frequency and the Role of Vehicle Ownership in Urban Ropeway Adoption
+
 A repository containing the final report for the B.Tech project submitted to the Department of Civil Engineering, Indian Institute of Technology (BHU) Varanasi.
 
 
